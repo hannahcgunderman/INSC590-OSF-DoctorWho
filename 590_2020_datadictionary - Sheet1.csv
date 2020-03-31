@@ -1,5 +1,0 @@
-Variable,Variable Name,Measurment Unit,Allowed Values,Description
-User Number,User,numeric,1-6,A numeric ID assgined to participants in sequential order
-Question,Question,alphanumeric ,Q1-Q11,An ID given to each question in the questionaire in sequential order
-Inital Answer,Pre,numeric,1-5,"The score given based on the score chart given to participants, before watching the episode of Doctor Who"
-Final Answer,Post,numeric,1-5,"The score given based on the score chart given to participants, after watching the episode of Doctor Who"
