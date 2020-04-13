@@ -10,25 +10,25 @@ GENERAL INFORMATION
 
 2. Author Information
 
-Author Contact Information
-    Name: Hannah Gunderman
-    Institution: Carnegie Mellon University
-    Address: 5000 Forbes Avenue, Pittsburgh, Pennsylvania, USA, 15213
-    Email: hgunderm@andrew.cmu.edu
-	Phone Number: 865-973-9543
+Author Contact Information  
+    Name: Hannah Gunderman  
+    Institution: Carnegie Mellon University  
+    Address: 5000 Forbes Avenue, Pittsburgh, Pennsylvania, USA, 15213  
+    Email: hgunderm@andrew.cmu.edu  
+    Phone Number: 865-973-9543  
 
 
-Author Contact Information
-    Name: Rhiannon Williams
-    Institution: University of Tennessee-Knoxville
-    Address: 1345 Circle Park Drive, Knoxville, Tennessee, USA, 37916
-    Email: rwill167@vols.utk.edu
+Author Contact Information  
+    Name: Rhiannon Williams  
+    Institution: University of Tennessee-Knoxville  
+    Address: 1345 Circle Park Drive, Knoxville, Tennessee, USA, 37916  
+    Email: rwill167@vols.utk.edu  
 
-Author Contact Information 
-    Name: Kyle Welch
-    Institution: University of Tennessee-Knoxville
-    Address: 1345 Circle Park Drive, Knoxville, Tennessee, USA, 37916
-    Email: kwelch17@vols.utk.edu
+Author Contact Information   
+    Name: Kyle Welch  
+    Institution: University of Tennessee-Knoxville  
+    Address: 1345 Circle Park Drive, Knoxville, Tennessee, USA, 37916  
+    Email: kwelch17@vols.utk.edu  
 
 ---------------------------------------
 DATA & FILE OVERVIEW
