@@ -2,6 +2,8 @@
 
 This Reproducible README.txt was generated on 20200410 by Hannah Gunderman, Rhiannon Williams, and Kyle Welch
 
+This project is also detailed on Open Science Framework, viewable at this View-Only URL: https://osf.io/yb5h3/?view_only=78f9771b625e41f8bdd911782f467182. 
+
 ----------------------------------------
 GENERAL INFORMATION
 ----------------------------------------
